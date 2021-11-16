@@ -1,1 +1,1 @@
-# Veritas Mobile Wallet
+# Veritas Mobile Wallet Website
